@@ -1,3 +1,4 @@
 rootProject.name = 'untitled'
 include 'lesson2'
+include 'lesson3'
 
